@@ -2,7 +2,7 @@
 templateKey: index-page
 title: OMG A NETLIFY B47CMS
 image: /img/home-jumbotron.jpg
-heading: Madness
+heading: Madness Madness
 subheading: What is this madness?!
 mainpitch:
   title: What is this?!
