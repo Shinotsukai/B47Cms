@@ -9,7 +9,9 @@ mainpitch:
   description: ZOMG it was so simple
 description: wut it just adds a thing? i love coffee
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/meeting-space.png
+      text: what is blurb
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
